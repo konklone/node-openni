@@ -10,5 +10,5 @@
   },
   "repository":
    { "type": "git",
-     "url": "http://github.com/pgte/node-openni.git" }
+     "url": "http://github.com/konklone/node-openni.git" }
 }
